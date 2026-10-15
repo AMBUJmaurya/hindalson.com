@@ -1,0 +1,21 @@
+{
+  "name": "Hindalson Technology",
+  "short_name": "Hindalson",
+  "description": "Websites, apps, SEO, and performance marketing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "theme_color": "#00c8d4",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
